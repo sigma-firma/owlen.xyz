@@ -1,0 +1,11 @@
+<div class="section-outer tagList-outer section-tagList" id="section-tagList">
+    {{ range $k, $v :=  .Tags }}
+    <div class="tagOuter" id="{{$v.Id $v}}" onclick="toggleTag({{$v.Id $v}})">
+        <div class="tagInner">{{$v}}</div>
+        <div class="addMore" id="tagItem_{{$v.Id $v}}">
+            <div class="plusSign"></div>
+        </div>
+    </div>
+    {{end}}
+</div>
+<script>{{ template "tagList.js"}}</script>

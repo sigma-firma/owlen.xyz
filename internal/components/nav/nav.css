@@ -1,0 +1,63 @@
+.logo {
+   display: flex;
+   flex-direction: row;
+   flex-wrap: nowrap;
+   align-items: center;
+}
+.owlen {
+   -webkit-mask: url(/public/media/owl.svg) no-repeat 100% 100%;
+   mask: url(/public/media/owl.svg) no-repeat 100% 100%;
+   mask-size: contain;
+   -webkit-mask-size: contain;
+   background: var(--owl-bg);
+   height: 2.2em;
+   width: 3em;
+   cursor: pointer;
+}
+.topNav {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+}
+.nav-outer {
+    display: flex;
+    position: fixed;
+    width: 100%;
+    z-index: 100;
+    color: var(--nav-fg);
+    background: var(--nav-bg);
+    align-items: stretch;
+    font-size: 1.3em;
+    justify-content: space-between;
+    flex-direction: column;
+    flex-wrap: nowrap;
+}
+.owlWord {
+   color: var(--owl-bg);
+   font-weight: 500;
+   cursor: pointer;
+}
+
+.heightAnimate {
+   animation: 1s linear navheight;
+   animation-fill-mode: forwards;
+}
+
+@keyframes navheight {
+   0% {height: 1em;}
+   100% {height: 80vh;}
+}
+
+.navItem {
+    margin-right: 1.1em;
+    width: 2em !important;
+    background-color: #93b089 !important;
+}
+.navItem > div {
+   color: var(--nav-bg) !important;
+}
+
+

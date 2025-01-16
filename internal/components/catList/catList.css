@@ -1,0 +1,12 @@
+.catList-outer {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: fit-content;
+    margin: 1em;
+}
+.cat {
+
+    background: #fdecfa;
+    color: #ae1a34;
+}

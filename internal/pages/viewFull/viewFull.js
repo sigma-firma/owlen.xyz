@@ -1,0 +1,2 @@
+{{ define "viewFull.js" }}
+{{end}}

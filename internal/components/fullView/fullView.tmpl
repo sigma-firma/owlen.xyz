@@ -1,0 +1,28 @@
+{{ define "fullView.tmpl" }}
+<div class="section-outer fullView-outer section-fullView" id="section-fullView">
+    <div class="title" onclick="window.location = 'https://arxiv.org/abs/{{.Report.ID}}'">{{.Report.Title}}</div>
+    <div class="topReport">
+        <div class="va-outer" onclick="window.location = 'https://arxiv.org/abs/{{.Report.ID}}'"><div class="viewArx"></div></div>
+        <div class="topLeft">
+            <div class="submitter">{{.Report.Submitter}}</div>
+            <div class="update">{{.Report.UpdateDate}}</div>
+            <div class="comments">{{.Report.Comments}}</div>
+        </div>
+        <div class="topRight">
+            <div class="doi">{{.Report.Doi}}</div>
+            <div class="journalRef">{{.Report.JournalRef}}</div>
+            <div class="reportNo">{{.Report.ReportNo}}</div>
+        </div>
+    </div>
+    <div class="authors">Authors: <red>{{.Report.Authors}}</red></div>
+    <div class="abstract">{{.Report.Abstract}}</div>
+
+    <div class="fv-categories-outer">
+        {{ range $k, $v :=  .Report.KeywordSlice }}
+        <div class="categories">{{$v}}</div>
+        {{end}}
+    </div>
+    <div></div>
+</div>
+<script>{{ template "fullView.js"}}</script>
+{{end}}

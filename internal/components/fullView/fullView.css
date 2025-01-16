@@ -1,0 +1,84 @@
+.fullView-outer {
+    margin: 5em 0.5em;
+    max-width: 80ch;
+    text-align: justify;
+    font-weight: 300;
+    color: #6f6f6f;
+}
+
+@media screen and (orientation:portrait) {
+    .fullView-outer {
+        font-size: 0.9em;
+    }
+}
+.fullView-outer > div {
+    margin: 5mm;
+}
+.topReport {
+    padding: 0.5em;
+    background: #efeddd;
+    border-radius: 0.3em;
+    color: #9e4900;
+    font-size: 0.6em;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+.topReport > div {
+    background: white;
+    border-radius: 0.3em;
+    margin: 0.3em;
+    padding: 0.8em; 
+}
+.viewArx {
+    -webkit-mask: url(/public/media/arxiv.svg) no-repeat 100% 100%;
+    mask: url(/public/media/arxiv.svg) no-repeat 100% 100%;
+    mask-size: contain;
+    -webkit-mask-position: center center;
+    mask-position: center center;
+    -webkit-mask-size: contain;
+    background: var(--nav-main-color);
+    height: 100%;
+    width: 6em;
+    cursor: pointer;
+
+}
+.topRight {
+    width: 50%;
+}
+.topRight > div {
+    text-align: right;
+}
+.topLeft {
+    padding: 0 2em;
+    width: 50%;
+}
+.title {
+    font-weight: 650;
+}
+.authors > red {
+    color: #9e4900;
+}
+.authors {
+    font-size: 0.9em;
+}
+.fv-categories-outer {
+    display: flex;
+    flex-direction: row;
+    padding-top: 1em;
+    flex-wrap: wrap;
+}
+.categories {
+    margin-right: 0.5em;
+    margin-bottom: 0.5em;
+    padding: 0.1em 0.5em 0.2em 0.5em;
+    background: var(--nav-main-color);
+    border-radius: 0.3em;
+    color: white;
+    text-shadow: 0 0 1px white;
+}
+.abstract {
+    font-family: serif;
+    font-size: 0.8em;
+    line-height: 2em;
+}

@@ -1,0 +1,81 @@
+.tagList-outer {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    height: fit-content;
+    padding-bottom: 5em;
+    margin: 4.3em 1em;
+    user-select: none;
+}
+.tagList-outer::after {
+    content: '';
+    flex-grow: 1000000000;
+}
+.tagOuter {
+    border-radius: 0.3em;
+    padding: 6px;
+    margin: 0.6em;
+    flex-grow: 1;
+    text-transform: capitalize;
+    font-weight: 400;
+    cursor: pointer;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: space-between;
+    align-items: center;
+    color: var(--tag-neutral-fg);
+    background-color: var(--tag-neutral-bg);
+    align-items: stretch;
+}
+.tagOuter > .addMore {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    border-radius: 0.2em;
+    background: var(--tag-neutral-butt-bg);
+    /* height: 100%; */
+    /* width: 1.2em; */
+}   
+.tagInner {
+    padding-right: 1ch;
+    text-wrap: nowrap;
+}
+
+.selectedTag {
+    background-color: var(--tag-selected-bg);
+    color: var(--tag-selected-fg);
+}
+.selectedTag > .addMore {
+    background-color: var(--tag-selected-butt-bg);
+}
+.selectedTag > .addMore > div {
+    background-color: var(--tag-selected-butt-fg);
+    transform: rotate(45deg);
+}
+.plusSign {
+    -webkit-mask: url(/public/media/plus.svg) no-repeat 100% 100%;
+    mask: url(/public/media/plus.svg) no-repeat 100% 100%;
+    -webkit-mask-size:contain;
+    mask-size: contain;
+    -webkit-mask-position: center center;
+    mask-position: center center;
+    height: 45%;
+    width: 1rem;
+    margin: 4px;
+    background-color: var(--tag-neutral-butt-fg);
+}
+.filteredTag {
+    background-color: var(--tag-filtered-bg);
+    color: var(--tag-filtered-fg);
+}
+.filteredTag > .addMore {
+    background-color: var(--tag-filtered-butt-bg);
+}
+
+.filteredTag > .addMore > div {
+    background-color: var(--tag-filtered-bg);
+    height: 0%;
+}

@@ -1,0 +1,42 @@
+<div class="section-outer mediaList-outer section-mediaList" id="section-mediaList">
+    {{ range $k, $v :=  .Media }}
+    <div class="mediaOuter" onclick="window.location = window.location.origin + '/science/{{$v.ID}}'">
+        <div class="mediaTitle">{{$v.Title}}</div>        
+        <div class="mediaAbstract">{{$v.Abstract}}</div>        
+        <div class="mediaWords">
+            {{ range $w :=  $v.SplitCategories }}
+            <div class="keyword">{{$w}}</div>        
+            {{end}}
+        </div>
+        <!-- <div class="mediaUnder"></div> -->
+    </div>
+    {{end}}
+</div>
+<script>{{ template "mediaList.js"}}</script>
+<!-- {{ range $k, $v :=  .Media }} -->
+<!-- <div class="section-outer fullView-outer section-fullView" id="section-fullView"> -->
+<!--     <div class="title" onclick="window.location = 'https://arxiv.org/abs/{{$v.ID}}'">{{$v.Title}}</div> -->
+<!--     <div class="topReport"> -->
+<!--         <div class="va-outer" onclick="window.location = 'https://arxiv.org/abs/{{$v.ID}}'"><div class="viewArx"></div></div> -->
+<!--         <div class="topLeft"> -->
+<!--             <div class="submitter">{{$v.Submitter}}</div> -->
+<!--             <div class="update">{{$v.UpdateDate}}</div> -->
+<!--             <div class="comments">{{$v.Comments}}</div> -->
+<!--         </div> -->
+<!--         <div class="topRight"> -->
+<!--             <div class="doi">{{$v.Doi}}</div> -->
+<!--             <div class="journalRef">{{$v.JournalRef}}</div> -->
+<!--             <div class="reportNo">{{$v.ReportNo}}</div> -->
+<!--         </div> -->
+<!--     </div> -->
+<!--     <div class="authors">Authors: <red>{{$v.Authors}}</red></div> -->
+<!--     <div class="abstract">{{$v.Abstract}}</div> -->
+
+<!--     <div class="fv-categories-outer"> -->
+<!--         {{ range $j, $b :=  $v.KeywordSlice }} -->
+<!--         <div class="categories">{{$b}}</div> -->
+<!--         {{end}} -->
+<!--     </div> -->
+<!--     <div></div> -->
+<!-- </div> -->
+<!-- {{end}} -->

@@ -1,0 +1,7 @@
+<div class="section-outer catList-outer section-catList" id="section-catList">
+    {{ range $k, $v :=  .Categories }}
+    <div class="cat tagOuter" onclick="window.location = window.location.origin + '/cat/' + {{$v}}">{{$v}}</div>
+    {{end}}
+</div>
+
+<script>{{ template "catList.js"}}</script>

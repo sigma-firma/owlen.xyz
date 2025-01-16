@@ -1,0 +1,2 @@
+{{ define "tag.js" }}
+{{end}}
