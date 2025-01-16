@@ -1,4 +1,7 @@
+# use in n/vim to restart on save:
+# :autocmd BufWritePost * silent! !./autoload.sh
 #!/bin/bash
-pkill -9 $1
-go build -o $1
-servicePort=$2 logFilePath=./logfile.txt ./$1 &>> logfile.txt &
+pkill boltapp || true
+go build -o boltapp
+echo http://localhost:10528
+./boltapp >> log.txt 2>&1 &

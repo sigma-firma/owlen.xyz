@@ -1,0 +1,19 @@
+2025/01/16 18:36:46 main.go:33: Waiting for connections @ http://localhost:
+2025/01/16 18:37:51 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 18:37:56 handlers.go:9:  test2
+2025/01/16 18:37:58 handlers.go:9:  test2
+2025/01/16 18:47:08 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 18:47:12 handlers.go:9:  test2
+2025/01/16 18:47:12 handlers.go:9:  test2
+2025/01/16 18:47:19 getCat.go:13:  test
+2025/01/16 18:47:19 handlers.go:9:  test2
+2025/01/16 18:47:21 handlers.go:9:  test2
+2025/01/16 18:47:22 handlers.go:9:  test2
+2025/01/16 18:47:49 handlers.go:9:  test2
+2025/01/16 18:47:55 handlers.go:9:  test2
+2025/01/16 18:48:08 handlers.go:9:  test2
+2025/01/16 18:48:08 handlers.go:9:  test2
+2025/01/16 18:48:19 handlers.go:9:  test2
+2025/01/16 18:48:19 handlers.go:9:  test2
+2025/01/16 18:48:22 getCat.go:13:  test
+2025/01/16 18:48:22 handlers.go:9:  test2
