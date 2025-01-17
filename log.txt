@@ -17,3 +17,4 @@
 2025/01/16 18:48:19 handlers.go:9:  test2
 2025/01/16 18:48:22 getCat.go:13:  test
 2025/01/16 18:48:22 handlers.go:9:  test2
+2025/01/16 20:15:16 main.go:33: Waiting for connections @ http://localhost:10528
