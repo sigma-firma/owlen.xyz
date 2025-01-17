@@ -139,3 +139,4 @@
 2025/01/16 20:57:33 main.go:33: Waiting for connections @ http://localhost:10528
 2025/01/16 20:57:35 getCat.go:13:  test
 2025/01/16 20:57:36 handlers.go:9:  test2
+2025/01/16 20:58:24 main.go:33: Waiting for connections @ http://localhost:10528
