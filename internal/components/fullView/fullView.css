@@ -72,13 +72,12 @@
     flex-wrap: wrap;
 }
 .categories {
-    margin-right: 0.5em;
-    margin-bottom: 0.5em;
-    padding: 0.1em 0.5em 0.2em 0.5em;
-    background: var(--nav-main-color);
+    padding: 0.2em 0.6em 0.3em 0.6em;
+    margin-right: 0.4em;
     border-radius: 0.3em;
-    color: white;
-    text-shadow: 0 0 1px white;
+    background: #fff589;
+    color: #9f9734;
+    border: 1px solid #e1d79d;
 }
 .abstract {
     font-family: serif;
