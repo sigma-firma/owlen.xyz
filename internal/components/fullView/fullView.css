@@ -41,21 +41,20 @@
     /* background: var(--nav-main-color); */
      background-image: url(/public/media/arxiv.svg);
     height: 100%;
-    width: 2.4em;
     background-size: contain;
     cursor: pointer;
     background-repeat: no-repeat;
-
+    background-position: center;
 }
 .topRight {
-    width: 50%;
+    width: 45%;
 }
 .topRight > div {
     text-align: right;
 }
 .topLeft {
     padding: 0 2em;
-    width: 50%;
+    width: 45%;
 }
 .title {
     font-weight: 650;
@@ -77,12 +76,16 @@
     margin-right: 0.4em;
     margin-bottom: 0.4em;
     border-radius: 0.3em;
-    background: #fff589;
-    color: #9f9734;
+    background: var(--yellow);
+    color: var(--fg);
     border: 1px solid #e1d79d;
 }
 .abstract {
     font-family: serif;
     font-size: 0.8em;
     line-height: 2em;
+}
+
+.va-outer {
+    width: 9%;
 }

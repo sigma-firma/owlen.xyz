@@ -9,7 +9,7 @@
    mask: url(/public/media/owl.svg) no-repeat 100% 100%;
    mask-size: contain;
    -webkit-mask-size: contain;
-   background: #9f9734;
+   background: var(--fg);
    height: 2.2em;
    width: 3em;
    cursor: pointer;
@@ -28,7 +28,7 @@
     width: 100%;
     z-index: 100;
     color: var(--nav-fg);
-    background: #fff589;
+    background: var(--yellow);
     align-items: stretch;
     font-size: 1.3em;
     justify-content: space-between;
@@ -36,7 +36,7 @@
     flex-wrap: nowrap;
 }
 .owlWord {
-    color: #9f9734;
+    color: var(--fg);
    font-weight: 500;
    cursor: pointer;
 }
@@ -44,7 +44,7 @@
 .heightAnimate {
    animation: 1s linear navheight;
    animation-fill-mode: forwards;
-    padding: 0.3em;
+    padding: 1em;
 }
 
 @keyframes navheight {

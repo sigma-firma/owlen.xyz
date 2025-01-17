@@ -335,6 +335,8 @@
     --tag-filtered-fg: #fffbda;
     --tag-filtered-butt-bg: #d6e0cb;
 */
+  --yellow: #fff589;
+  --fg: #b7da07;
 }
 
 * {

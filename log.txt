@@ -284,3 +284,50 @@ null
 null
 2025/01/16 23:38:24 main.go:33: Waiting for connections @ http://localhost:10528
 2025/01/16 23:40:52 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 23:55:04 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 23:55:57 getCat.go:13:  test
+null
+2025/01/16 23:56:07 getCat.go:13:  test
+null
+2025/01/16 23:57:01 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 23:57:14 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 23:57:20 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/17 00:00:28 getCat.go:13:  test
+2025/01/17 00:00:34 getCat.go:13:  test
+2025/01/17 00:01:14 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/17 00:01:32 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/17 00:01:54 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/17 00:02:08 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/17 00:02:37 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/17 00:04:12 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/17 00:04:42 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/17 00:04:53 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/17 00:05:14 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/17 00:06:33 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/17 00:07:01 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/17 00:10:00 getCat.go:13:  test
+2025/01/17 00:14:41 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/17 00:14:55 getCat.go:13:  test
+2025/01/17 00:15:01 getCat.go:13:  test
+2025/01/17 00:16:36 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/17 00:16:39 getCat.go:13:  test
+2025/01/17 00:18:31 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/17 00:18:33 getCat.go:13:  test
+2025/01/17 00:19:07 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/17 00:19:11 getCat.go:13:  test
+null
+2025/01/17 00:20:43 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/17 00:20:47 getCat.go:13:  test
+null
+2025/01/17 00:21:10 getCat.go:13:  test
+null
+2025/01/17 00:22:59 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/17 00:23:13 main.go:33: Waiting for connections @ http://localhost:10528
+null
+null
+2025/01/17 00:25:57 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/17 00:26:14 main.go:33: Waiting for connections @ http://localhost:10528
+null
+2025/01/17 00:26:21 getCat.go:13:  test
+null
+2025/01/17 00:27:02 main.go:33: Waiting for connections @ http://localhost:10528

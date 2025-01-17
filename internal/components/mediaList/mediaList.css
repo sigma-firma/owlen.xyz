@@ -17,7 +17,7 @@
     position: relative;
     background: white;
     cursor: pointer;
-    box-shadow: 0px 0px 20px 4px #e6e6e6;
+    box-shadow: 0px 0px 40px -10px #dbdbdb;
     border: 1px solid #d9d9d9;
     max-width: 100%;
 }
@@ -40,7 +40,7 @@
     font-weight: 300;
     /* max-width: 78ch; */
     padding: 0.5em 1.1em 0.5em 1.1em;
-    color: #686868;
+    color: #717171;
     font-size: 0.75em;
 }
 .mediaAbstract::-webkit-scrollbar {
@@ -54,8 +54,8 @@
     padding: 0.5em 0.5em 0.5em 0.7em;
     border-top-right-radius: 0.3em;
     border-top-left-radius: 0.3em;
-    background: #dc8c62;
-    color: #ffffff;
+    background: #ff8c50;
+    color: #ffdca5;
 }
 .mediaWords {
     display: flex;
@@ -72,7 +72,7 @@
     margin-bottom: 0.4em;
     border-radius: 0.3em;
     font-size: 0.75em;
-    background: #fff589;
-    color: #9f9734;
+    background: var(--yellow);
+    color: var(--fg);
     border: 1px solid #e1d79d;
 }
