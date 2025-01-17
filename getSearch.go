@@ -9,7 +9,7 @@ import (
 )
 
 func getSearch(w http.ResponseWriter, r *http.Request) {
-	search := strings.Split(r.RequestURI, "/")[2]
+	search := strings.Split(strings.ToLower(r.RequestURI), "/")[2]
 	if len(search) > 0 {
 		opts := &redis.ZRangeBy{
 			Min:    "(" + string(search[0]),
