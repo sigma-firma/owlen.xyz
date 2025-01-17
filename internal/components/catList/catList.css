@@ -10,6 +10,8 @@
    border-radius: 0.3em;
     background: var(--yellow);
     color: var(--red);
+
+    color: #a9be50;
     /* border: 1px solid #e1d79d; */
 
 }

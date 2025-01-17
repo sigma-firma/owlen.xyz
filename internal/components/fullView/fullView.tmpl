@@ -18,9 +18,9 @@
     <div class="abstract">{{.Report.Abstract}}</div>
 
     <div class="fv-categories-outer">
-        {{ range $k, $v :=  .Report.KeywordSlice }}
-        <div class="categories">{{$v}}</div>
-        {{end}}
+        <!-- {{ range $k, $v :=  .Report.KeywordSlice }} -->
+        <!-- <div class="categories">{{$v}}</div> -->
+        <!-- {{end}} -->
         {{ range $k, $v :=  .Report.SplitCategories }}
         <div class="categories">{{$v}}</div>
         {{end}}

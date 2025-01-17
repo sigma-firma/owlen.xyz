@@ -4,7 +4,7 @@
     flex-wrap: wrap;
     height: fit-content;
     padding-bottom: 5em;
-    margin: 4.3em 1em;
+    margin: 0em 1em;
     user-select: none;
 }
 .tagList-outer::after {
@@ -27,6 +27,7 @@
     color: var(--tag-neutral-fg);
     background-color: var(--tag-neutral-bg);
     align-items: stretch;
+box-shadow: 4px 5px 0 #efe528;
 }
 .tagOuter > .addMore {
     display: flex;

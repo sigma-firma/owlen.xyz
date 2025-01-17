@@ -346,3 +346,32 @@ null
 null
 2025/01/17 00:30:10 getCat.go:13:  test
 2025/01/17 00:30:28 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/17 00:50:20 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/17 00:51:46 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/17 00:51:54 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/17 00:52:17 getCat.go:13:  test
+null
+2025/01/17 00:52:47 getCat.go:13:  test
+null
+2025/01/17 00:53:10 getCat.go:13:  test
+2025/01/17 00:53:31 getSearch.go:24: [unusually strong unusually large unusually high unusual transport unusual temperature unusual properties unusual magnetic unusual feature unusual dust unusual colors untwisted case unstudied variable unstructured search unstructured network unstable wave unstable steady unstable spiral unstable solutions unstable regions unstable periodic orbit unstable periodic unstable particle unstable nuclei unstable modes unstable mode unstable manifold unstable limit unstable fixed unstable equilibrium unstable eigenvalues unstable disk unstable accretion disks unstable accretion unsolved problem unshielded environment unscreened coulomb unrestricted hartree fock unrestricted hartree unresolved stellar unresolved sources unresolved point source unresolved point unresolved galaxies unramified mixed characteristic unramified mixed unquenching effects unquenched lattice unprecedented spatial resolution unprecedented spatial unprecedented sensitivity] &{(u [unz 0 50}
+2025/01/17 00:53:54 getSearch.go:24: [universe today universe starting universe solution universe offers universe model universe filled universe expansion universe expands universe evolution universe dominated universe based universally defined representation universally defined universality hypothesis universality class universal vertex universal turing machine universal turing universal trend universal space universal solution universal slope universal scaling universal representations universal quantum gates universal quantum computation universal quantum cloning machine universal quantum cloning universal quantum universal property universal properties universal parameter universal object universal nonlinear universal loop universal localisation universal hamiltonian universal gaugino mass universal gaugino universal function universal form universal features universal feature universal extra dimension model universal extra dimension universal extra universal expression universal enveloping algebra universal enveloping universal entangler] &{(u [uniz 0 50}
+2025/01/17 00:54:09 getSearch.go:24: [universe today universe starting universe solution universe offers universe model universe filled universe expansion universe expands universe evolution universe dominated universe based universally defined representation universally defined universality hypothesis universality class universal vertex universal turing machine universal turing universal trend universal space universal solution universal slope universal scaling universal representations universal quantum gates universal quantum computation universal quantum cloning machine universal quantum cloning universal quantum universal property universal properties universal parameter universal object universal nonlinear universal loop universal localisation universal hamiltonian universal gaugino mass universal gaugino universal function universal form universal features universal feature universal extra dimension model universal extra dimension universal extra universal expression universal enveloping algebra universal enveloping universal entangler] &{(u [uniz 0 50}
+2025/01/17 00:54:25 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/17 00:54:31 getSearch.go:24: [universe today universe starting universe solution universe offers universe model universe filled universe expansion universe expands universe evolution universe dominated universe based universally defined representation universally defined universality hypothesis universality class universal vertex universal turing machine universal turing universal trend universal space universal solution universal slope universal scaling universal representations universal quantum gates universal quantum computation universal quantum cloning machine universal quantum cloning universal quantum universal property universal properties universal parameter universal object universal nonlinear universal loop universal localisation universal hamiltonian universal gaugino mass universal gaugino universal function universal form universal features universal feature universal extra dimension model universal extra dimension universal extra universal expression universal enveloping algebra universal enveloping universal entangler] &{(u [uniz 0 50}
+2025/01/17 00:56:22 getCat.go:13:  test
+null
+2025/01/17 00:56:33 getCat.go:13:  test
+null
+2025/01/17 00:57:27 getCat.go:13:  test
+null
+2025/01/17 00:57:57 main.go:33: Waiting for connections @ http://localhost:10528
+null
+2025/01/17 00:58:11 getCat.go:13:  test
+null
+2025/01/17 00:58:15 getCat.go:13:  test
+null
+2025/01/17 00:58:41 getCat.go:13:  test
+null
+2025/01/17 00:59:12 getCat.go:13:  test
+null
