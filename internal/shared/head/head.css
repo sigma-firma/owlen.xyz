@@ -357,7 +357,7 @@ body {
   /* background-color: whitesmoke; */
   /* background-color: #c3c493; */
   /* background-color: #feffe5; */
-  background-color: var(--body-bg);
+  /* background-color: var(--body-bg); */
   font-size: 1.3em;
 }
 

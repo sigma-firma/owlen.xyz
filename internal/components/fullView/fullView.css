@@ -31,16 +31,19 @@
     padding: 0.8em; 
 }
 .viewArx {
-    -webkit-mask: url(/public/media/arxiv.svg) no-repeat 100% 100%;
-    mask: url(/public/media/arxiv.svg) no-repeat 100% 100%;
-    mask-size: contain;
-    -webkit-mask-position: center center;
-    mask-position: center center;
-    -webkit-mask-size: contain;
-    background: var(--nav-main-color);
+    /* -webkit-mask: url(/public/media/arxiv.svg) no-repeat 100% 100%; */
+    /* mask: url(/public/media/arxiv.svg) no-repeat 100% 100%; */
+    /* mask-size: contain; */
+    /* -webkit-mask-position: center center; */
+    /* mask-position: center center; */
+    /* -webkit-mask-size: contain; */
+    /* background: var(--nav-main-color); */
+     background-image: url(/public/media/arxiv.svg);
     height: 100%;
-    width: 6em;
+    width: 2.4em;
+    background-size: contain;
     cursor: pointer;
+    background-repeat: no-repeat;
 
 }
 .topRight {

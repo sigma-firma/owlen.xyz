@@ -18,3 +18,116 @@
 2025/01/16 18:48:22 getCat.go:13:  test
 2025/01/16 18:48:22 handlers.go:9:  test2
 2025/01/16 20:15:16 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 20:20:52 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 20:21:01 handlers.go:9:  test2
+2025/01/16 20:21:01 handlers.go:9:  test2
+2025/01/16 20:21:09 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 20:21:12 handlers.go:9:  test2
+2025/01/16 20:21:13 handlers.go:9:  test2
+2025/01/16 20:21:14 handlers.go:9:  test2
+2025/01/16 20:21:14 handlers.go:9:  test2
+2025/01/16 20:21:15 handlers.go:9:  test2
+2025/01/16 20:21:15 handlers.go:9:  test2
+2025/01/16 20:22:09 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 20:22:11 handlers.go:9:  test2
+2025/01/16 20:22:12 handlers.go:9:  test2
+2025/01/16 20:22:15 getSearch.go:24: [edca function economical model economic systems economic monitoring economic growth economic factors ecological systems ecole centrale ecliptic pole ecliptic plane eclipsing light curves eclipsing light eclipsing cataclysmic variable eclipsing cataclysmic eclipsing binary star eclipsing binary eclipsing binaries eclipse timing eclipse photometry eclipse depth echo technique echelle spectrograph echelle spectra eccentricity fluctuations eccentricity excitation eccentricity damping eccentric orbits eccentric orbit eccentric dwds eberly telescope easy plane anisotropy easy plane easy construction easy axis east west east asia easily implemented easily identified easily extended easily extendable easily determine easily detect easily constructed easily computed easily applied easily adapted easily accessible earth surface earth size earth moon] &{(e [edcez 0 50}
+2025/01/16 20:22:16 getSearch.go:24: [edca function economical model economic systems economic monitoring economic growth economic factors ecological systems ecole centrale ecliptic pole ecliptic plane eclipsing light curves eclipsing light eclipsing cataclysmic variable eclipsing cataclysmic eclipsing binary star eclipsing binary eclipsing binaries eclipse timing eclipse photometry eclipse depth echo technique echelle spectrograph echelle spectra eccentricity fluctuations eccentricity excitation eccentricity damping eccentric orbits eccentric orbit eccentric dwds eberly telescope easy plane anisotropy easy plane easy construction easy axis east west east asia easily implemented easily identified easily extended easily extendable easily determine easily detect easily constructed easily computed easily applied easily adapted easily accessible earth surface earth size earth moon] &{(e [edcecwz 0 50}
+2025/01/16 20:22:17 getSearch.go:24: [edca function economical model economic systems economic monitoring economic growth economic factors ecological systems ecole centrale ecliptic pole ecliptic plane eclipsing light curves eclipsing light eclipsing cataclysmic variable eclipsing cataclysmic eclipsing binary star eclipsing binary eclipsing binaries eclipse timing eclipse photometry eclipse depth echo technique echelle spectrograph echelle spectra eccentricity fluctuations eccentricity excitation eccentricity damping eccentric orbits eccentric orbit eccentric dwds eberly telescope easy plane anisotropy easy plane easy construction easy axis east west east asia easily implemented easily identified easily extended easily extendable easily determine easily detect easily constructed easily computed easily applied easily adapted easily accessible earth surface earth size earth moon] &{(e [edcecz 0 50}
+2025/01/16 20:22:18 getSearch.go:24: [edwards wilkinson edwards anderson model edwards anderson ising spin glass edwards anderson ising spin edwards anderson ising edwards anderson edges incident edge zeta function edge zeta edge weights edge structure edge spin edge singularities edge sharing edge shape edge problem edge percolation edge length edge ideals edge fluctuations edge dislocation edge disjoint union edge disjoint edge deletion edge defect edge crossing edge coloring edge colored graph edge colored edge channels edge barrier eddy viscosity eddy simulation eddy current eddington ratios eddington ratio eddington rate eddington luminosity eddington limit eddington accretion edca function economical model economic systems economic monitoring economic growth economic factors ecological systems ecole centrale ecliptic pole ecliptic plane] &{(e [edz 0 50}
+2025/01/16 20:22:23 handlers.go:9:  test2
+2025/01/16 20:22:23 handlers.go:9:  test2
+2025/01/16 20:22:28 getSearch.go:24: [universe today universe starting universe solution universe offers universe model universe filled universe expansion universe expands universe evolution universe dominated universe based universally defined representation universally defined universality hypothesis universality class universal vertex universal turing machine universal turing universal trend universal space universal solution universal slope universal scaling universal representations universal quantum gates universal quantum computation universal quantum cloning machine universal quantum cloning universal quantum universal property universal properties universal parameter universal object universal nonlinear universal loop universal localisation universal hamiltonian universal gaugino mass universal gaugino universal function universal form universal features universal feature universal extra dimension model universal extra dimension universal extra universal expression universal enveloping algebra universal enveloping universal entangler] &{(u [uniz 0 50}
+2025/01/16 20:22:35 handlers.go:9:  test2
+2025/01/16 20:22:35 handlers.go:9:  test2
+2025/01/16 20:22:40 getCat.go:13:  test
+2025/01/16 20:22:40 handlers.go:9:  test2
+2025/01/16 20:23:56 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 20:23:57 getCat.go:13:  test
+2025/01/16 20:23:57 handlers.go:9:  test2
+2025/01/16 20:24:20 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 20:26:36 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 20:26:39 getCat.go:13:  test
+2025/01/16 20:26:39 handlers.go:9:  test2
+2025/01/16 20:26:42 getCat.go:13:  test
+2025/01/16 20:26:44 handlers.go:9:  test2
+2025/01/16 20:28:41 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 20:28:42 getCat.go:13:  test
+2025/01/16 20:28:43 handlers.go:9:  test2
+2025/01/16 20:28:55 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 20:28:56 getCat.go:13:  test
+2025/01/16 20:28:57 handlers.go:9:  test2
+2025/01/16 20:30:50 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 20:30:55 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 20:31:12 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 20:31:13 getCat.go:13:  test
+2025/01/16 20:31:14 handlers.go:9:  test2
+2025/01/16 20:31:16 handlers.go:9:  test2
+2025/01/16 20:31:17 handlers.go:9:  test2
+2025/01/16 20:31:24 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 20:31:27 handlers.go:9:  test2
+2025/01/16 20:31:29 handlers.go:9:  test2
+2025/01/16 20:31:33 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 20:31:41 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 20:31:42 getCat.go:13:  test
+2025/01/16 20:31:44 handlers.go:9:  test2
+2025/01/16 20:32:40 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 20:33:51 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 20:33:53 getCat.go:13:  test
+2025/01/16 20:33:54 handlers.go:9:  test2
+2025/01/16 20:34:57 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 20:34:58 getCat.go:13:  test
+2025/01/16 20:34:59 handlers.go:9:  test2
+2025/01/16 20:35:11 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 20:35:11 getCat.go:13:  test
+2025/01/16 20:35:12 handlers.go:9:  test2
+2025/01/16 20:36:42 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 20:36:56 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 20:36:57 getCat.go:13:  test
+2025/01/16 20:36:58 handlers.go:9:  test2
+2025/01/16 20:37:03 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 20:37:04 getCat.go:13:  test
+2025/01/16 20:37:05 handlers.go:9:  test2
+2025/01/16 20:37:54 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 20:37:58 getCat.go:13:  test
+2025/01/16 20:37:59 handlers.go:9:  test2
+2025/01/16 20:39:15 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 20:39:49 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 20:39:49 getCat.go:13:  test
+2025/01/16 20:39:50 handlers.go:9:  test2
+2025/01/16 20:40:53 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 20:41:54 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 20:41:55 getCat.go:13:  test
+2025/01/16 20:41:58 handlers.go:9:  test2
+2025/01/16 20:42:08 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 20:42:09 getCat.go:13:  test
+2025/01/16 20:42:10 handlers.go:9:  test2
+2025/01/16 20:44:14 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 20:44:14 getCat.go:13:  test
+2025/01/16 20:44:15 handlers.go:9:  test2
+2025/01/16 20:44:20 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 20:44:21 getCat.go:13:  test
+2025/01/16 20:44:22 handlers.go:9:  test2
+2025/01/16 20:46:54 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 20:46:55 getCat.go:13:  test
+2025/01/16 20:46:56 handlers.go:9:  test2
+2025/01/16 20:46:59 handlers.go:9:  test2
+2025/01/16 20:47:48 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 20:47:51 handlers.go:9:  test2
+2025/01/16 20:50:20 handlers.go:9:  test2
+2025/01/16 20:50:34 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 20:50:36 handlers.go:9:  test2
+2025/01/16 20:51:39 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 20:51:44 handlers.go:9:  test2
+2025/01/16 20:53:40 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 20:53:58 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 20:54:00 handlers.go:9:  test2
+2025/01/16 20:54:05 handlers.go:9:  test2
+2025/01/16 20:54:05 handlers.go:9:  test2
+2025/01/16 20:54:06 getCat.go:13:  test
+2025/01/16 20:54:06 handlers.go:9:  test2
+2025/01/16 20:54:07 handlers.go:9:  test2
+2025/01/16 20:54:36 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 20:54:40 handlers.go:9:  test2
+2025/01/16 20:54:40 handlers.go:9:  test2
+2025/01/16 20:54:40 handlers.go:9:  test2

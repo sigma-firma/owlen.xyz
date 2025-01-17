@@ -7,7 +7,6 @@
     max-width: 80ch;
 }
 .mediaOuter {
-    padding: 0.7em;
     margin: 1em 0;
     flex-grow: 1;
     font-weight: 400;
@@ -15,9 +14,11 @@
     flex-direction: column;
     flex-wrap: nowrap;
     border-radius: 0.5em;
-    border: var(--topLayerBorder);
+    border: 1px solid #ededed;
     position: relative;
-    background: var(--media-main-color);
+    background: white;
+    cursor: pointer;
+    box-shadow: 0px 0px 20px 4px #e6e6e6;
 }
 .mediaUnder {
     height: 100%;
@@ -34,10 +35,12 @@
     margin:0.6em 0;
     text-align: justify;
     overflow: hidden;
-    max-height: 4ch;
+    /* max-height: 4ch; */
     font-weight: 300;
-    color: var(--abstract-color);
-    max-width: 78ch;
+    /* max-width: 78ch; */
+    padding: 0.5em 1.1em 0.5em 1.1em;
+    color: #686868;
+    font-size: 0.75em;
 }
 .mediaAbstract::-webkit-scrollbar {
     display: none;
@@ -45,20 +48,29 @@
 }
 
 .mediaTitle {
-    color: var(--mediaTitleColor);
     font-weight: 500;
     text-transform: capitalize;
+    padding: 0.5em 0.5em 0.5em 0.7em;
+    border-top-right-radius: 0.3em;
+    border-top-left-radius: 0.3em;
+    background: #dc8c62;
+    color: #ffffff;
 }
 .mediaWords {
     display: flex;
     flex-direction: row;
     flex-wrap: wrap;
+    padding: 0.5em;
+    background: #f2f2f2;
+    border-bottom-right-radius: 0.3em;
+    border-bottom-left-radius: 0.3em;
 }
 .keyword {
     padding: 0.2em 0.6em 0.3em 0.6em;
     margin-right: 0.4em;
     border-radius: 0.3em;
     font-size: 0.75em;
-    color: var(--kwfg);
-    background: var(--nav-main-color);
+    background: #fff589;
+    color: #9f9734;
+    border: 1px solid #e1d79d;
 }
