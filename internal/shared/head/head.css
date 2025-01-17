@@ -352,13 +352,11 @@ body {
   flex-direction: column;
   scroll-padding-bottom: 10em;
    font-size: 1.3em;
-   user-select: none;
 }
 
 @media screen and (orientation:portrait) {
   body {
     /* font-size: 0.8em; */
-   user-select: none;
   }
 }
 @media screen and (orientation:landscape) {
