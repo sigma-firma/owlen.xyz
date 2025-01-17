@@ -1,12 +1,10 @@
 package main
 
 import (
-	"log"
 	"net/http"
 )
 
 func home(w http.ResponseWriter, r *http.Request) {
-	log.Println(" test2")
 	v := viewData{}
 	// v.Id = func(s string) string {
 	// 	return strings.ReplaceAll(s, " ", "_")
