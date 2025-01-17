@@ -283,3 +283,4 @@ null
 2025/01/16 23:37:52 getCat.go:13:  test
 null
 2025/01/16 23:38:24 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 23:40:52 main.go:33: Waiting for connections @ http://localhost:10528
