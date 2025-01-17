@@ -9,8 +9,7 @@
 .cat {
    border-radius: 0.3em;
     background: var(--yellow);
-    color: var(--fg);
-    color: #fbab64;
+    color: var(--red);
     /* border: 1px solid #e1d79d; */
 
 }

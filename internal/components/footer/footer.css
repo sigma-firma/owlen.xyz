@@ -14,5 +14,5 @@
     mask-size: contain;
     -webkit-mask-size: contain;
     width: 15em;
-    background: #ff9b4b;
+    background: var(--red);
 }
