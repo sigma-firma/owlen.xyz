@@ -5,7 +5,7 @@ let lastSearch = "";
 searchInput.addEventListener("keyup", (event) => {
     if (searchInput.value.length > 0 && lastSearch.length != searchInput.value.length) {
         lastSearch = searchInput.value;
-        if (event.isComposing || event.keyCode === 229) {
+        if (event.isComposing || event.key === 229) {
             return;
         }
         if (searchPending) {
