@@ -44,20 +44,38 @@
 .heightAnimate {
    animation: 1s linear navheight;
    animation-fill-mode: forwards;
+    padding: 0.3em;
 }
 
 @keyframes navheight {
    0% {height: 1em;}
-   100% {height: 80vh;}
+   100% {height: 100%;}
 }
 
 .navItem {
     margin-right: 1.1em;
     width: 2em !important;
-    background-color: #93b089 !important;
+    background-color: #a9d22c !important;
+    border-radius: 0.3em;
 }
 .navItem > div {
    color: var(--nav-bg) !important;
+    text-align: center;
+    margin: 0.3em;
+    border-radius: 0.3em;
 }
 
-
+.follow {
+    display: flex;
+   flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: flex-end;
+}
+.ftag {
+    background: white;
+    padding: 0.2em;
+    border-radius: 0.3em;
+    margin: 0.1em;
+    font-size: 0.8em;
+    color: #a09734;
+}

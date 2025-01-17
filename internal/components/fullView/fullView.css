@@ -4,6 +4,7 @@
     text-align: justify;
     font-weight: 300;
     color: #6f6f6f;
+    min-height: 70vh;
 }
 
 @media screen and (orientation:portrait) {
