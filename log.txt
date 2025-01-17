@@ -131,3 +131,11 @@
 2025/01/16 20:54:40 handlers.go:9:  test2
 2025/01/16 20:54:40 handlers.go:9:  test2
 2025/01/16 20:54:40 handlers.go:9:  test2
+2025/01/16 20:56:03 getCat.go:13:  test
+2025/01/16 20:56:03 handlers.go:9:  test2
+2025/01/16 20:56:59 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 20:57:00 getCat.go:13:  test
+2025/01/16 20:57:01 handlers.go:9:  test2
+2025/01/16 20:57:33 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 20:57:35 getCat.go:13:  test
+2025/01/16 20:57:36 handlers.go:9:  test2

@@ -14,11 +14,11 @@
     flex-direction: column;
     flex-wrap: nowrap;
     border-radius: 0.5em;
-    border: 1px solid #ededed;
     position: relative;
     background: white;
     cursor: pointer;
     box-shadow: 0px 0px 20px 4px #e6e6e6;
+    border: 1px solid #d9d9d9;
 }
 .mediaUnder {
     height: 100%;
