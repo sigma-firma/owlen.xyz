@@ -1,6 +1,7 @@
 package main
 
 import (
+	"fmt"
 	"log"
 	"net/http"
 	"strings"
@@ -21,7 +22,9 @@ func getScience(w http.ResponseWriter, r *http.Request) {
 		log.Println(err)
 	}
 	vd.Report = rp
-	vd.Report.KeywordSlice = strings.Split(rp.Categories, " ")
+	vd.Report.KeywordSlice = strings.Split(rp.Keywords, " ")
+	vd.Report.SplitCategories = strings.Split(rp.Categories, " ")
+	fmt.Println(rp.Keywords)
 
 	exeTmpl(w, r, &vd, "viewFull.tmpl")
 }

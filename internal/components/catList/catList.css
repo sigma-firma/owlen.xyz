@@ -7,7 +7,9 @@
     margin-top: 4em;
 }
 .cat {
+   border-radius: 0.3em;
+    background: #fff589;
+    color: #9f9734;
+    /* border: 1px solid #e1d79d; */
 
-    background: #fdecfa;
-    color: #ae1a34;
 }

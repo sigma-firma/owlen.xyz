@@ -21,6 +21,9 @@
         {{ range $k, $v :=  .Report.KeywordSlice }}
         <div class="categories">{{$v}}</div>
         {{end}}
+        {{ range $k, $v :=  .Report.SplitCategories }}
+        <div class="categories">{{$v}}</div>
+        {{end}}
     </div>
     <div></div>
 </div>

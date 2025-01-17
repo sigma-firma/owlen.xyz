@@ -9,7 +9,7 @@
    mask: url(/public/media/owl.svg) no-repeat 100% 100%;
    mask-size: contain;
    -webkit-mask-size: contain;
-   background: var(--owl-bg);
+   background: #9f9734;
    height: 2.2em;
    width: 3em;
    cursor: pointer;
@@ -28,7 +28,7 @@
     width: 100%;
     z-index: 100;
     color: var(--nav-fg);
-    background: var(--nav-bg);
+    background: #fff589;
     align-items: stretch;
     font-size: 1.3em;
     justify-content: space-between;
@@ -36,7 +36,7 @@
     flex-wrap: nowrap;
 }
 .owlWord {
-   color: var(--owl-bg);
+    color: #9f9734;
    font-weight: 500;
    cursor: pointer;
 }

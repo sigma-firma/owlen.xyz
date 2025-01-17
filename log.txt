@@ -191,3 +191,61 @@
 2025/01/16 22:15:42 getCat.go:13:  test
 2025/01/16 22:16:21 getCat.go:13:  test
 2025/01/16 22:18:25 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 22:37:50 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 22:37:56 getCat.go:13:  test
+2025/01/16 22:38:03 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 22:39:32 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 22:39:59 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 22:40:22 getCat.go:13:  test
+2025/01/16 22:40:40 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 22:41:21 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 22:41:43 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 22:41:51 getCat.go:13:  test
+2025/01/16 22:42:00 getSearch.go:24: [universe today universe starting universe solution universe offers universe model universe filled universe expansion universe expands universe evolution universe dominated universe based universally defined representation universally defined universality hypothesis universality class universal vertex universal turing machine universal turing universal trend universal space universal solution universal slope universal scaling universal representations universal quantum gates universal quantum computation universal quantum cloning machine universal quantum cloning universal quantum universal property universal properties universal parameter universal object universal nonlinear universal loop universal localisation universal hamiltonian universal gaugino mass universal gaugino universal function universal form universal features universal feature universal extra dimension model universal extra dimension universal extra universal expression universal enveloping algebra universal enveloping universal entangler] &{(u [uniz 0 50}
+2025/01/16 22:43:06 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 22:43:19 getCat.go:13:  test
+2025/01/16 22:46:07 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 22:46:17 getCat.go:13:  test
+{0704.0019 Norio Konno Norio Konno Approximation for extinction probability of the contact process based on
+  the Gr\"obner basis 6 pages, Journal-ref added RIMS Kokyuroku, No.1551, pp.57-62 (2007)   math.PR math.AG [math.PR math.AG]   In this note we give a new method for getting a series of approximations for
+the extinction probability of the one-dimensional contact process by using the
+Gr\"obner basis.
+ null [] 2007-06-23 []}
+2025/01/16 22:46:37 main.go:33: Waiting for connections @ http://localhost:10528
+{0704.0019 Norio Konno Norio Konno Approximation for extinction probability of the contact process based on
+  the Gr\"obner basis 6 pages, Journal-ref added RIMS Kokyuroku, No.1551, pp.57-62 (2007)   math.PR math.AG []   In this note we give a new method for getting a series of approximations for
+the extinction probability of the one-dimensional contact process by using the
+Gr\"obner basis.
+ null [] 2007-06-23 []}
+2025/01/16 22:50:01 main.go:33: Waiting for connections @ http://localhost:10528
+{0704.0019 Norio Konno Norio Konno Approximation for extinction probability of the contact process based on
+  the Gr\"obner basis 6 pages, Journal-ref added RIMS Kokyuroku, No.1551, pp.57-62 (2007)   math.PR math.AG []   In this note we give a new method for getting a series of approximations for
+the extinction probability of the one-dimensional contact process by using the
+Gr\"obner basis.
+ null [] 2007-06-23 []}
+2025/01/16 22:50:26 main.go:33: Waiting for connections @ http://localhost:10528
+null
+null
+2025/01/16 22:55:33 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 22:59:42 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 23:00:00 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 23:00:38 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 23:01:19 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 23:01:21 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 23:01:53 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 23:03:08 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 23:03:46 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 23:04:06 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 23:04:41 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 23:04:50 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 23:04:58 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 23:07:54 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 23:08:38 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 23:08:38 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 23:08:40 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 23:08:43 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 23:09:37 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 23:10:20 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 23:13:09 main.go:33: Waiting for connections @ http://localhost:10528
+2025/01/16 23:13:19 getCat.go:13:  test
+null
