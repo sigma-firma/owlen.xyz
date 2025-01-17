@@ -351,14 +351,8 @@ body {
   display: flex;
   flex-direction: column;
   scroll-padding-bottom: 10em;
-  /* background-color: floralwhite; */
-  /* background-color: snow; */
-  /* background-color: ghostwhite; */
-  /* background-color: whitesmoke; */
-  /* background-color: #c3c493; */
-  /* background-color: #feffe5; */
-  /* background-color: var(--body-bg); */
-  font-size: 1.3em;
+   font-size: 1.3em;
+   user-select: none;
 }
 
 @media screen and (orientation:portrait) {
