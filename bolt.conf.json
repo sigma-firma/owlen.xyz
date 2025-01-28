@@ -2,13 +2,13 @@
   "app": {
     "name": "Owlen",
     "command": "",
-    "domain_name": "owlen.hrtsfld.xyz",
+    "domain_name": "owlen.sigma-firma.xyz",
     "version": "0.01",
     "env": {},
     "port": "10528",
     "alertsOn": true,
     "tls_enabled": true,
-    "repo": "https://github.com/hartsfield/owlen.hrtsfld.xyz"
+    "repo": "https://github.com/sigma-firma/owlen.sigma-firma.xyz"
   },
   "gcloud": {
     "command": "gcloud",
