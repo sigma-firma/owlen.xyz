@@ -2,13 +2,13 @@
   "app": {
     "name": "Owlen",
     "command": "",
-    "domain_name": "owlen.sigma-firma.xyz",
+    "domain_name": "owlen.sigma-firma.com",
     "version": "0.01",
     "env": {},
     "port": "10528",
     "alertsOn": true,
     "tls_enabled": true,
-    "repo": "https://github.com/sigma-firma/owlen.sigma-firma.xyz"
+    "repo": "https://github.com/sigma-firma/owlen.sigma-firma.com"
   },
   "gcloud": {
     "command": "gcloud",
