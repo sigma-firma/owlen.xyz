@@ -512,3 +512,15 @@ main.bolt.func1()
 	/Users/john/programs/recent/00_LIVE/owlen.xyz/server.go:20 +0x54
 created by main.bolt in goroutine 1
 	/Users/john/programs/recent/00_LIVE/owlen.xyz/server.go:18 +0x1f0
+2025/02/08 01:08:42 main.go:37: Waiting for connections @ http://localhost:10528
+2025/02/08 01:08:42 server.go:20: listen tcp :10528: bind: address already in use
+panic: listen tcp :10528: bind: address already in use
+	
+
+goroutine 49 [running]:
+log.Panicln({0x1400010dfb8?, 0x0?, 0x0?})
+	/usr/local/go/src/log/log.go:446 +0x60
+main.bolt.func1()
+	/Users/john/programs/recent/00_LIVE/owlen.xyz/server.go:20 +0x54
+created by main.bolt in goroutine 1
+	/Users/john/programs/recent/00_LIVE/owlen.xyz/server.go:18 +0x1f0
