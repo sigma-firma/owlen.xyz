@@ -563,3 +563,12 @@ created by main.bolt in goroutine 1
 2025/02/08 02:01:36 main.go:37: Waiting for connections @ http://localhost:10528
 2025/02/08 02:01:49 getCat.go:13:  test
 2025/02/08 02:01:49 getCat.go:13:  test
+2025/02/08 19:18:02 main.go:52: dial tcp [::1]:6379: connect: connection refused
+2025/02/08 19:18:02 main.go:61: dial tcp [::1]:6379: connect: connection refused
+2025/02/08 19:18:02 main.go:37: Waiting for connections @ http://localhost:10528
+2025/02/08 19:22:22 main.go:52: dial tcp [::1]:6379: connect: connection refused
+2025/02/08 19:22:22 main.go:61: dial tcp [::1]:6379: connect: connection refused
+2025/02/08 19:22:22 main.go:37: Waiting for connections @ http://localhost:10528
+2025/02/08 19:22:26 main.go:52: dial tcp [::1]:6379: connect: connection refused
+2025/02/08 19:22:26 main.go:61: dial tcp [::1]:6379: connect: connection refused
+2025/02/08 19:22:26 main.go:37: Waiting for connections @ http://localhost:10528

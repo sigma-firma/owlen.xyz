@@ -32,8 +32,17 @@ func getCat(w http.ResponseWriter, r *http.Request) {
 			log.Println(err)
 		}
 		marshaled, err := json.Marshal(strings.Fields(newR.Categories))
-		json.Unmarshal([]byte(newR.Keywords), &newR.KeywordSlice)
-		json.Unmarshal(marshaled, &newR.SplitCategories)
+		if err != nil {
+			log.Println(err)
+		}
+		err = json.Unmarshal([]byte(newR.Keywords), &newR.KeywordSlice)
+		if err != nil {
+			log.Println(err)
+		}
+		err = json.Unmarshal(marshaled, &newR.SplitCategories)
+		if err != nil {
+			log.Println(err)
+		}
 		// vd. = s[1 : len(s)-1]
 		vd.Media = append(vd.Media, newR)
 	}
