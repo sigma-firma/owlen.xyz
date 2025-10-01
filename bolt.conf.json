@@ -7,8 +7,8 @@
     "env": {},
     "port": "10528",
     "alertsOn": true,
-    "tls_enabled": false,
-    "repo": "https://github.com/hartsfield/owlen.sigma-firma.com"
+    "tls_enabled": true,
+    "repo": "https://github.com/sigma-firma/owlen.sigma-firma.com"
   },
   "gcloud": {
     "command": "gcloud",

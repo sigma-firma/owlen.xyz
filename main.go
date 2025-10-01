@@ -4,7 +4,6 @@ package main
 import (
 	"html/template"
 	"log"
-	"os"
 	"strings"
 
 	"github.com/redis/go-redis/v9"
@@ -12,6 +11,7 @@ import (
 
 func init() {
 	log.SetFlags(log.LstdFlags | log.Lshortfile)
+	// rand.Seed(time.Now().UTC().UnixNano())
 	funcMap := template.FuncMap{
 		"Id": func(s string) string {
 			return strings.ReplaceAll(s, " ", "_")
@@ -22,12 +22,8 @@ func init() {
 }
 func main() {
 	if len(logFilePath) > 1 {
-		f, err := os.OpenFile(logFilePath, os.O_RDWR|os.O_CREATE|os.O_APPEND, 0666)
-		if err != nil {
-			log.Fatalf("error opening file: %v", err)
-		}
-
-		log.SetOutput(f)
+		f := setupLogging()
+		defer f.Close()
 	}
 
 	getReports()
@@ -38,7 +34,6 @@ func main() {
 
 	<-ctx.Done()
 }
-
 func getReports() {
 	opts := &redis.ZRangeBy{
 		Min:    "-inf",
