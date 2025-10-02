@@ -11,7 +11,6 @@ import (
 
 func init() {
 	log.SetFlags(log.LstdFlags | log.Lshortfile)
-	// rand.Seed(time.Now().UTC().UnixNano())
 	funcMap := template.FuncMap{
 		"Id": func(s string) string {
 			return strings.ReplaceAll(s, " ", "_")
