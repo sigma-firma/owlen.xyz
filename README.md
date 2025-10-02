@@ -18,3 +18,6 @@ Owlen is built using the following:
  - Golang is used on the backend/server code, as well as the parser. 
  - JavaScript/ajax/html/css is used client side.
  - Redis is used to store and retrieve data.
+
+
+[Screen Recording 2025-10-01 at 5.07.40 PM (1).webm](https://github.com/user-attachments/assets/457e4816-f5b9-4c97-b919-6a117ceb6146)
